@@ -21,8 +21,8 @@ An intuitive and easy-to-use **EMI (Equated Monthly Installment) Calculator** th
 
 | Layer     | Tech Used                |
 |-----------|--------------------------|
-| Frontend  | HTML, CSS, JavaScript / Angular / React (based on your app) |
-| Hosting   | GitHub Pages / Netlify / Vercel / Heroku |
+| Frontend  | HTML, CSS, JavaScript |
+| Hosting   | GitHub Pages |
 
 ## 🧮 Formula Used
 
